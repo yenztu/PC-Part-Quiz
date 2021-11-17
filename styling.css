@@ -1,0 +1,56 @@
+h1 {
+	color: ;
+
+}
+
+
+
+.checkbox {
+	color: #FE0101;
+}
+
+
+
+
+mark{
+	background-color: #D2D2D2;
+}
+
+
+.blue {
+	color: blue;
+}
+
+.red {
+	color: red;
+}
+
+.blackpink {
+	color: #FE08EE;
+}
+
+.green {
+	color: #01D56B;
+}
+
+
+
+
+body {
+	font-size: 40px;
+	font-family: 'Zen Kaku Gothic New', sans-serif;
+	text-align: center;
+}
+
+
+
+body {
+	
+
+	background-image: url("wallpaper.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 175%;
+	height: 100%;
+
+}
